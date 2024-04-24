@@ -1,5 +1,5 @@
 ---
-title: Week 1 → Welcome To CSCI 145!
+title: Week 1 → Welcome To CSCI 110!
 ---
 
 Aug 29

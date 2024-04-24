@@ -1,16 +1,16 @@
 ---
 layout: home
-title: CSCI 145
+title: CSCI 110
 nav_exclude: true
 permalink: /:path/
 seo:
   type: Course
-  name: CSCI 145
+  name: CSCI 110
 ---
 
-# CSCI 145, Fall 2023
+# CSCI 110, Summer 2024
 
-Welcome to CSCI 145 at Mt. SAC! This course page is intended as a "home page" for our course where you can find all of the resources we will use this term.
+Welcome to CSCI 110 at Mt. SAC! This course page is intended as a "home page" for our course where you can find all of the resources we will use this term.
 
 If you have any questions, feel free to reach out to Sherdil directly :)
 
