@@ -22,5 +22,5 @@ Jun 27
   : [slides](#)
 : **Lab 4**{: .label .label-purple } TBA
 
-Sep 10
+Jun 30
 : **Labs 1 + 2 + 3 + 4 due**{: .label .label-red }
