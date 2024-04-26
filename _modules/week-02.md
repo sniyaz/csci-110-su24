@@ -5,22 +5,22 @@ title: Week 2 → TBA
 Jun 24
 : [TBA](#)
   : [slides](#)
-: **Lab 2**{: .label .label-purple } TBA
+: **Lab 1**{: .label .label-purple } TBA
 
 Jun 25
 : [TBA](#)
   : [slides](#)
-: **Lab 3**{: .label .label-purple } TBA
+: **Lab 2**{: .label .label-purple } TBA
 
 Jun 26
 : [TBA](#)
   : [slides](#)
-: **Lab 4**{: .label .label-purple } TBA
+: **Lab 3**{: .label .label-purple } TBA
 
 Jun 27
 : [TBA](#)
   : [slides](#)
-: **Lab 5**{: .label .label-purple } TBA
+: **Lab 4**{: .label .label-purple } TBA
 
 Sep 10
-: **Labs 2 + 3 + 4 + 5 due**{: .label .label-red }
+: **Labs 1 + 2 + 3 + 4 due**{: .label .label-red }
