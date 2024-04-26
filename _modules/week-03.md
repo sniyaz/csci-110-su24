@@ -4,17 +4,17 @@ title: Week 3 → TBA
 
 Jul 1
 : **TBA**
-  : [slides](#)
+  : [slides](#), [videos](#)
 : **Lab 5**{: .label .label-purple } TBA
 
 Jul 2
 : **TBA**
-  : [slides](#)
+  : [slides](#), [videos](#)
 : **Lab 6**{: .label .label-purple } TBA
 
 Jul 3
 : **TBA**
-  : [slides](#)
+  : [slides](#), [videos](#)
 : **Lab 7**{: .label .label-purple } TBA
 
 Jul 4
