@@ -2,15 +2,25 @@
 title: Week 4 → TBA
 ---
 
-Sep 19
-: [TBA](#)
-  : [slides](#)
-: **Lab 6**{: .label .label-purple } [TBA](#)
+Jul 8
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 8**{: .label .label-purple } TBA
 
-Sep 21
-: [TBA](#)
-  : [slides](#)
-: **Lab 7**{: .label .label-purple } [TBA](#)
+Jul 9
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 9**{: .label .label-purple } TBA
 
-Sep 24
-: **Labs 6/7 due**{: .label .label-red }
+Jul 10
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 10**{: .label .label-purple } TBA
+
+Jul 11
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 11**{: .label .label-purple } TBA
+
+Jul 14
+: **Labs 8 + 9 + 10 + 11 due**{: .label .label-red }

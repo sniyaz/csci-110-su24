@@ -21,5 +21,5 @@ Jul 4
 : **No Class: America's Birthday! 🇺🇸 🦅 🍔**{: .label .label-green }
   : [video](https://www.youtube.com/watch?v=digUCKigSh4)
 
-Jun 7
+Jul 7
 : **Labs 5 + 6 + 7 due**{: .label .label-red }
