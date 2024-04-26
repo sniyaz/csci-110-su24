@@ -2,15 +2,25 @@
 title: Week 5 → TBA
 ---
 
-Sep 26
-: [TBA](#)
-  : [slides](#)
-: **Lab 8**{: .label .label-purple } [TBA](#)
+Jul 15
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 12**{: .label .label-purple } TBA
 
-Sep 28
-: [TBA](#)
-  : [slides](#)
-: **Lab 9**{: .label .label-purple } [TBA](#)
+Jul 16
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 13**{: .label .label-purple } TBA
 
-Oct 1
-: **Labs 8/9 due**{: .label .label-red }
+Jul 17
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 14**{: .label .label-purple } TBA
+
+Jul 18
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 15**{: .label .label-purple } TBA
+
+Jul 21
+: **Labs 12 + 13 + 14 + 15 due**{: .label .label-red }
