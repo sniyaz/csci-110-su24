@@ -2,15 +2,25 @@
 title: Week 6 → TBA
 ---
 
-Oct 3
-: [TBA](#)
-  : [slides](#)
-: **Lab 10**{: .label .label-purple } [TBA](#)
+Jul 15
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 12**{: .label .label-purple } TBA
 
-Oct 5
-: [TBA](#)
-  : [slides](#)
-: **Lab 11**{: .label .label-purple } [TBA](#)
+Jul 16
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 13**{: .label .label-purple } TBA
 
-Oct 8
-: **Labs 10/11 due**{: .label .label-red }
+Jul 17
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 14**{: .label .label-purple } TBA
+
+Jul 18
+: **TBA**
+  : [slides](#), [videos](#)
+: **Lab 15**{: .label .label-purple } TBA
+
+Jul 21
+: **Labs 12 + 13 + 14 + 15 due**{: .label .label-red }
