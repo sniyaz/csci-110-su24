@@ -4,7 +4,7 @@ title: Week 1 → Welcome To CSCI 110!
 
 Jun 20
 : **Welcome + Class Mechanics**
-  : [slides](#), [videos](#)
+  : [slides](#)
 : **Lab 0**{: .label .label-purple } Machine Setup
   : [setup guide](#)
 
