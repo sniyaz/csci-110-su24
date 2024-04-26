@@ -4,22 +4,22 @@ title: Week 2 → TBA
 
 Jun 24
 : **TBA**
-  : [slides](#)
+  : [slides](#), [videos](#)
 : **Lab 1**{: .label .label-purple } TBA
 
 Jun 25
 : **TBA**
-  : [slides](#)
+  : [slides](#), [videos](#)
 : **Lab 2**{: .label .label-purple } TBA
 
 Jun 26
 : **TBA**
-  : [slides](#)
+  : [slides](#), [videos](#)
 : **Lab 3**{: .label .label-purple } TBA
 
 Jun 27
 : **TBA**
-  : [slides](#)
+  : [slides](#), [videos](#)
 : **Lab 4**{: .label .label-purple } TBA
 
 Jun 30
