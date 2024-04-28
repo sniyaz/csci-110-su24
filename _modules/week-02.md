@@ -3,9 +3,8 @@ title: Week 2 → TBA
 ---
 
 Jun 24
-: **TBA**
-  : [slides](#), [videos](#)
 : **Lab 1**{: .label .label-purple } TBA
+  : Requires **Lec X**{: .label .label-green }
 
 Jun 25
 : **TBA**
