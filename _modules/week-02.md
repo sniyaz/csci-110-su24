@@ -5,6 +5,8 @@ title: Week 2 → TBA
 Jun 23
 : **Lec X**{: .label .label-green } TBA
   : [slides](#), [videos](#)
+: **Lec X**{: .label .label-green } TBA
+  : [slides](#), [videos](#)
 
 Jun 24
 : **Lab 1**{: .label .label-purple } TBA
