@@ -2,7 +2,7 @@
 title: Week 3 → TBA
 ---
 
-Jun 30:
+Prep
 : **Lec X**{: .label .label-green } TBA
   : [slides](#), [videos](#)
 : **Lec X**{: .label .label-green } TBA

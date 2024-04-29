@@ -2,7 +2,7 @@
 title: Week 2 → TBA
 ---
 
-Home Prep:
+Prep
 : **Lec X**{: .label .label-green } TBA
   : [slides](#), [videos](#)
 : **Lec X**{: .label .label-green } TBA
