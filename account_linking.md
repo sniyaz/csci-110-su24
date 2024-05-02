@@ -17,7 +17,12 @@ Don't worry about actually setting up GitHub Classroom or anything like that: ju
 
 ### Discord Account
 
-We will use Discord as the class forum this quarter, where you can ask questions about assignments, lecture, or anything else (I hate Canvas discussion boards with a fiery passion). That means you need to sign up for Discord and tell me what your handle is here as well. You can see [this page](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started) for directions.
+We will also use Discord this semester, which I'm sure many of you are familiar with! We'll _specifically_ be using it for
+
+1. Community building and socializing (see `#⁠group-finding` and `#⁠random`)
+2. Queuing for live help during class time and office hours (see `#⁠live-help`)
+
+This means you need to sign up for Discord and tell me what your handle is here as well. You can see [this page](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started) for directions.
 
 Once you've created a Discord account, use that account/handle to join the class Discord server! You can find the link in the upper right of this page (it's the big button that says..._Discord_ 😉).
 
