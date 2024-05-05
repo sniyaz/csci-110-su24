@@ -6,7 +6,7 @@ description: The weekly event schedule.
 
 ## Live Class Instructions
 
-**Zoom link** for "live" classes and office hours: see **Canvas** or **Discord** (I don't want to post the link publicly).
+For the **Zoom link** for "live" classes and office hours, please see **Canvas** or **Discord** (I don't want to post the link publicly).
 
 To queue for help during live classes and office hours, see the `live-help` channel on Discord. Please post in this channel with a short description of the question you have. For example:
 
