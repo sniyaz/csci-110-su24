@@ -1,18 +1,18 @@
 ---
 layout: page
-title: Office Hours + Schedule
+title: Weekly Schedule
 description: The weekly event schedule.
 ---
 
-## Office Hours Instructions
+## Live Class Instructions
 
-**Zoom link** for office hours: click [here](https://mtsac-edu.zoom.us/j/86701836775?pwd=K05tM3BJdUFuNUVtQS9xd0RiWk5MUT09).
+**Zoom link** for "live" classes and office hours: see **Canvas** or **Discord** (I don't want to post the link publicly).
 
-To queue for office hours, see the `office-hours` channel on Discord. Please post in this channel with a short description of the question you have. For example:
+To queue for help during live classes and office hours, see the `live-help` channel on Discord. Please post in this channel with a short description of the question you have. For example:
 
-`Lab 1: Getting a Strange Compilation Error`
+`Lab 1: Getting an Error in Part A`
 
-You can submit these questions starting **15 minutes** before the start of each office hour. When an instructor is helping you, they will react with a 💬 emoji. They will also call your name and move you to a breakout room in Zoom. Once the instructor is done helping, you'll see your question marked with a ✅ emoji.
+You can submit these questions starting **15 minutes** before the start of each live class or office hour. When an instructor is helping you, they will react with a 💬 emoji. They will also call your name and move you to a breakout room in Zoom. Once the instructor is done helping, you'll see your question marked with a ✅ emoji.
 
 Don't worry if you don't see the instructor in the main Zoom call: they are helping another student in a breakout room.
 
