@@ -18,7 +18,7 @@ description: >-
 
 ## Course Description
 
-Computer hardware and software. General computer organization and information representation. Binary and hexadecimal number systems. Algorithm design and problem-solving techniques. Introduction to programming using a high level language, in our case Python.
+Computer hardware and software. General computer organization and information representation. Binary and hexadecimal number systems. Algorithm design and problem-solving techniques. Introduction to programming using a high level language (in our case, Python).
 
 ## Textbooks and Materials
 
