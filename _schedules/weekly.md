@@ -24,38 +24,29 @@ timeline:
   - '8:30 PM'
 schedule:
   - name: Monday
+    events:
+        - name: Live Class
+          start: 5:15 PM
+          end: 6:40 PM
+          location: ZOOM
   - name: Tuesday
     events:
-      - name: Lecture
+      - name: Live Class
         start: 5:15 PM
         end: 6:40 PM
-        location: 61 - 3311
-      - name: Lab
-        start: 6:40 PM
-        end: 8:15 PM
-        location: 61 - 3311
+        location: ZOOM
   - name: Wednesday
+    events:
+        - name: Live Class
+          start: 5:15 PM
+          end: 6:40 PM
+          location: ZOOM
   - name: Thursday
     events:
-      - name: Lecture
+      - name: Live Class
         start: 5:15 PM
         end: 6:40 PM
-        location: 61 - 3311
-      - name: Lab
-        start: 6:40 PM
-        end: 8:15 PM
-        location: 61 - 3311
+        location: ZOOM
   - name: Friday
-    events:
-        - name: Office Hours
-          start: 5:00 PM
-          end: 6:00 PM
-          location: ZOOM
-  - name: Saturday
-    events:
-        - name: Extra Office Hours
-          start: 10:00 AM
-          end: 12:00 PM
-          location: ZOOM
   
 ---
