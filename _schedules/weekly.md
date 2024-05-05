@@ -42,6 +42,10 @@ schedule:
           start: 5:00 PM
           end: 8:25 PM
           location: ZOOM
+        - name: Office Hours
+          start: 8:30 PM
+          end: 9:30 PM
+          location: ZOOM
   - name: Thursday
     events:
       - name: Live Class
