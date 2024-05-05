@@ -18,15 +18,13 @@ description: >-
 
 ## Course Description
 
-For computer science, engineering, mathematics, and other science students. Introduction to Java language and object-oriented programming with Java as well as general concepts and techniques of computer programming. Topics include Java expressions, flow control, functions and program structure, Java classes, overloading, object references, inheritance, Java library packages, exceptions, file I/O, applets, event handling, multithreading. Prerequisite: Completion of CSCI 110. 4 units (3 lecture units and 1 lab unit).
+Computer hardware and software. General computer organization and information representation. Binary and hexadecimal number systems. Algorithm design and problem-solving techniques. Introduction to programming using a high level language, in our case Python.
 
 ## Textbooks and Materials
 
-The textbook we use in this course is **Java Software Solutions -- Foundations of Program Design by J. Lewis and W. Loftus, 9th Edition, Pearson**.
+The textbook we use in this course is **Starting Out with Programming Logic and Design and C++/Java/Python Language Companion by Tony Gaddis, Sixth Edition, 2023, Pearson**.
 
-The only other material I expect you to have access to is a computer with a Java compiler. If you don't have a personal laptop, you can use the machines in the Math/CSCI computer lab.
-
-That said, I *strongly* recommend having access to a personal laptop and bringing it with you to class: it's much easier as a student to be able to take your work home and work on it when off-campus. You can check out the Mt. SAC [laptop loaner program](https://www.mtsac.edu/studenttech/laptoploanerprogram.html) for help with this. If you are still having trouble getting access to a personal laptop and feel that it's impacting your learning in this course, send me an email: I can try my best to find another way (although I can't promise anything). My goal in this course is to give everybody an opportunity to succeed regardless of personal resources or other privileges.
+The only other material I expect you to have access to is a computer that can run Python. You can check out the Mt. SAC [laptop loaner program](https://www.mtsac.edu/studenttech/laptoploanerprogram.html) for help with this. If you are still having trouble getting access to a personal laptop and feel that it's impacting your learning in this course, send me an email: I can try my best to find another way (although I can't promise anything). My goal in this course is to give everybody an opportunity to succeed regardless of personal resources or other privileges.
 
 ## Grading
 
