@@ -23,6 +23,7 @@ timeline:
   - '8:00 PM'
   - '8:30 PM'
 schedule:
+  - name: Sunday
   - name: Monday
     events:
         - name: Live Class
