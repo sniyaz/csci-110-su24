@@ -26,7 +26,7 @@ The textbook we use in this course is **Starting Out with Programming Logic and 
 
 The only other material I expect you to have access to is a computer that can run Python. You can check out the Mt. SAC [laptop loaner program](https://www.mtsac.edu/studenttech/laptoploanerprogram.html) for help with this. If you are still having trouble getting access to a personal laptop and feel that it's impacting your learning in this course, send me an email: I can try my best to find another way (although I can't promise anything). My goal in this course is to give everybody an opportunity to succeed regardless of personal resources or other privileges.
 
-## Grading
+## Grading [TODO]
 
 Let's be honest: this is the part of the syllabus most students probably jumped to 😉. The breakdown of your grade in this course will be as follows:
 
@@ -49,7 +49,7 @@ The percentages for each letter grades are exactly what you'd expect too, but in
 
 **Do I Curve?** I reserve the right to make the bins for each grade _easier_, but I will never make them _harder_ (in case, for example, I mess up and give an exam that's way too hard).
 
-## Late Assignments and Make-Up Exams
+## Late Assignments and Make-Up Exams [TODO]
 
 Programming assignments (Labs and HWs) can be submitted up to three days late with a 10% penalty of the **original** point amount each day. For example, suppose you get 9/10 on a lab assignment but submit it two days late (usually this means on a Tuesday). Your final score on the lab in this case would be 7/10. This same rules apply to homeworks. No submissions more than three days late will be graded unless you have an exception from me.
 
@@ -63,7 +63,7 @@ When it comes to exams, you usually need to let me know **72 hours** in advance 
 
 More than half of your grade in this class is composed of programming assignments, both in-class (Labs) and take-home (Homeworks). All programming assignments can be completed alone or in groups of two: it's completely up to you. I encourage you to work in groups (both because this makes things easier and because you learn from talking to your colleagues). You are allowed to switch groups for every assignment (but you don't have to).
 
-All programming assignments are submitted on GitHub Classroom, which we will review in Lab 0. GitHub is also where you'll formally create teams. If you're reading this from _the future_ and want to review how GitHub Classroom works, you can revisit Lab 0 [here](https://docs.google.com/document/d/1039DVQRKf1EQyiqDlycPky10WT3kcod8M7DfxguWWAA/edit?usp=sharing).
+All programming assignments are submitted on GitHub Classroom, which we will review in Lab 0. GitHub is also where you'll formally create teams. If you're reading this from _the future_ and want to review how GitHub Classroom works, you can revisit Lab 0 [here](https://docs.google.com/document/d/1zv9Umqfy8KEKmTtqoPQFH0pwoAfzPxlJHMxtURlbGls/edit?usp=sharing).
 
 **Warning:** Once you create a group for an assignment on GitHub Classroom, that group can't be changed and you are stuck with it for the rest of the assignment. Be careful!
 
