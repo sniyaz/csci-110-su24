@@ -27,26 +27,26 @@ schedule:
   - name: Monday
     events:
         - name: Live Class
-          start: 5:15 PM
-          end: 6:40 PM
+          start: 5:00 PM
+          end: 8:25 PM
           location: ZOOM
   - name: Tuesday
     events:
       - name: Live Class
-        start: 5:15 PM
-        end: 6:40 PM
+        start: 5:00 PM
+        end: 8:25 PM
         location: ZOOM
   - name: Wednesday
     events:
         - name: Live Class
-          start: 5:15 PM
-          end: 6:40 PM
+          start: 5:00 PM
+          end: 8:25 PM
           location: ZOOM
   - name: Thursday
     events:
       - name: Live Class
-        start: 5:15 PM
-        end: 6:40 PM
+        start: 5:00 PM
+        end: 8:25 PM
         location: ZOOM
   - name: Friday
   
