@@ -7,7 +7,7 @@ description: >-
 
 ## What Is "Flipped" Learning?
 
-Our class this semester will be taught online at set times (you can the [weekly schedule](https://sniyaz.github.io/csci-110-su24/schedule/) for exactly when our classes are held). Based on my own experience teaching online classes during COVID, I've decided to implement a ["flipped" learning](https://en.wikipedia.org/wiki/Flipped_classroom) approach this semester.
+Our class this semester will be taught online at set times (you can see the [weekly schedule](https://sniyaz.github.io/csci-110-su24/schedule/) for exactly when our classes are held). Based on my own experience teaching online classes during COVID, I've decided to implement a ["flipped" learning](https://en.wikipedia.org/wiki/Flipped_classroom) approach this semester.
 
 At a high level, this means that I will **pre-record** the lectures for you to view on your own time. This is nice because (in my experience) trying to lecture "live" over Zoom just doesn't work well. There are often connection issues, and a video (unlike a live lecture) can be paused and rewound if there's something you don't quite understand!
 
