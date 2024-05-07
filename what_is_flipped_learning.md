@@ -1,11 +1,11 @@
 ---
 layout: page
-title: What is "Flipped" Learning?
+title: What Is "Flipped" Learning?
 description: >-
     An introduction to the "flipped" approach we will use in CSCI 110.
 ---
 
-## What is "Flipped" Learning?
+## What Is "Flipped" Learning?
 
 Our class this semester will be taught online at set times (you can the [weekly schedule](https://sniyaz.github.io/csci-110-su24/schedule/) for exactly when our classes are held). Based on my own experience teaching online classes during COVID, I've decided to implement a ["flipped" learning](https://en.wikipedia.org/wiki/Flipped_classroom) approach this semester.
 
