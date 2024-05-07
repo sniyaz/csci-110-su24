@@ -69,13 +69,13 @@ All programming assignments are submitted on GitHub Classroom, which we will rev
 
 Remember, with GitHub Classroom **what you see is what you get**. That means that the score you got from the autograder should match the score you see on Canvas (minus any late penalties). Hopefully this increases both grading transparency and your satisfaction with your grade. 😊
 
-## Class Forum: Discord
+## Class Forum: Canvas
 
-We will use Discord in this class as a forum for you to discuss questions with your classmates and help each other out (I also plan to be very active and answer your questions here as well). If you're emailing me with a question, I would prefer you post in on Discord instead (assuming that it isn't super personal): that way other students can also learn from your question (and probably have the same one!)
+We will use a [Canvas forum](https://mtsac.instructure.com/courses/146781/discussion_topics/1503255) in this class for you to discuss questions with your classmates and help each other out (I also plan to be very active and answer your questions here as well). If you're emailing me with a question, I would prefer you post in on Canvas instead (assuming that it isn't super personal): that way other students can also learn from your question (and probably have the same one!)
 
-**Danger Zone:** I expect you to behave yourself on Discord the same way I expect you to behave in an in-person course: that means respect and patience for your fellow students. We all learn at different rates (I was personally a slow learner in college), and making others feel bad about that (or anything else) is **not** OK. I have absolutely zero tolerance for this stuff, and I **will** shut down the class Discord if people are being disrespectful.
+**Danger Zone:** I expect you to behave yourself on the forum the same way I would expect you to behave in an in-person course: that means respect and patience for your fellow students. We all learn at different rates (I was personally a slow learner in college), and making others feel bad about that (or anything else) is **not** OK. I have absolutely zero tolerance for this stuff, and I **will** shut down the class forum if people are being disrespectful.
 
-**Danger Zone Part 2:** The same collaboration/plagiarism/cheating rules that apply to the rest of this class extend to Discord. That means no sharing of solutions, etc. You should feel comfortable asking questions about general concepts, but, when in doubt, just ask me if a question/answer is OK. Speaking of which....
+**Danger Zone Part 2:** The same collaboration/plagiarism/cheating rules that apply to the rest of this class extend to the Canvas forum. That means no sharing of solutions, etc. You should feel comfortable asking questions about general concepts, but, when in doubt, just ask me if a question/answer is OK. Speaking of which....
 
 ## Cheating and Academic Honesty 🔥
 
@@ -119,4 +119,4 @@ Computer Science is (as I'm sure many of you are aware) not generally a field th
 This class can get stressful. If it gets too overwhelming at times, please feel free to send me an email and we can talk about how things are going. Do not suffer in silence: it is _literally_ my job to make sure you learn and have a good experience in this course. I would also encourage you to check out the [Student Health Center](https://www.mtsac.edu/healthcenter/mentalhealth/) for additional mental health resources. Without getting _too_ corny, I personally wish I had started on my mental health journey earlier. There's never any shame in asking for help!
 
 #### Response Time
-I will try my best to respond to all emails and Discord DMs within 24 hours: if I don't, please feel free to send me a reminder (I promise I will not mind). Cards on the table: I have a "day job" as a Robotics Engineer that I owe 100% of my attention to before 5PM. Teaching is something I do in my own time for personal fulfillment: but that also means that I won't always be able to reply instantly. But I also hope that my perspective as a (relatively) young person in the tech industry is more of a plus than a minus 😁
+I will try my best to respond to all emails within 24 hours: if I don't, please feel free to send me a reminder (I promise I will not mind). Cards on the table: I have a "day job" as a Robotics Engineer that I owe 100% of my attention to before 5PM. Teaching is something I do in my own time for personal fulfillment: but that also means that I won't always be able to reply instantly. But I also hope that my perspective as a (relatively) young person in the tech industry is more of a plus than a minus 😁
