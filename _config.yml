@@ -28,6 +28,8 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
+  Canvas (Q&A):
+    - https://mtsac.instructure.com/courses/146781/discussion_topics/1503255
   Discord:
     - https://discord.gg/ZBeFZ7vD
   Github Classroom:
