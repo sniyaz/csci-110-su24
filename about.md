@@ -108,7 +108,7 @@ Ultimately, **the goal of enrolling in this course is for YOU to learn this mate
 
 ## Final Thoughts
 
-I don't want this page to end with a scary section about cheating, so instead I'll end with this: I am **super excited** to be your instructor this semester. I love to teach, and I can't wait to see how you'll learn and grow this term. Welcome to CSCI 145! 🎉
+I don't want this page to end with a scary section about cheating, so instead I'll end with this: I am **super excited** to be your instructor this semester. I love to teach, and I can't wait to see how you'll learn and grow this term. Welcome to CSCI 110! 🎉
 
 Some other (small) closing notes:
 
