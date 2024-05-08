@@ -74,9 +74,7 @@ Note that the exams in this course will be open notes, open book, open internet,
 
 In general, the exams aren't worth that much of your grade. I personally dislike exams (just as part of my teaching philosophy), and don't think they make much sense in an online class or introductory CS classes in general. But Mt. SAC forces me to give them, so here we are.
 
-**Missing an Exam:**: You usually need to let me know **72 hours** in advance if you need a make-up exam. I understand that life happens: if something unexpected happens that causes you to miss an exam, you need to let me know within **24 hours** for me to handle it somehow.
-
-**Golden Rule:** If weird stuff happens and you aren't sure what to do, send me an email. I understand that we are all human beings with a lot going on, and I don't want this class to make your life miserable.
+**Missing an Exam:** You usually need to let me know **72 hours** in advance if you need a make-up exam. I understand that life happens: if something unexpected happens that causes you to miss an exam, you need to let me know within **24 hours** for me to handle it somehow.
 
 ## Programming Assignments
 
@@ -93,6 +91,8 @@ Remember, with GitHub Classroom **what you see is what you get**. That means tha
 Programming assignments (Labs and HWs) can be submitted up to three days late with a 10% penalty of the **original** point amount each day. For example, suppose you get 9/10 on a lab assignment but submit it two days late (usually this means on a Tuesday). Your final score on the lab in this case would be 7/10. This same rules apply to homeworks. No submissions more than three days late will be graded unless you have an exception from me.
 
 **Note:** I usually use the most-recent submission you make on GitHub Classroom when calculating grades. If you don't want me to do this (for example, if you accidentally resubmit late and don't want to take the penalty), just shoot me an email.
+
+**Golden Rule:** If weird stuff happens and you aren't sure what to do, send me an email. I understand that we are all human beings with a lot going on, and I don't want this class to make your life miserable.
 
 ## Class Forum: Canvas
 
