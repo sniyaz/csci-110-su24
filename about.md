@@ -61,11 +61,15 @@ Part of your grade in this course will will focus on your _effort, participation
 5. Socializing with other students on the class Discord (yes, actually).
 6. **Helping out** your fellow students!!! This will boost your EPA **the most**: for example by answering questions on the Canvas Q&A board for other students who are stuck.
 
-## Exam Policy [TODO]
+## Exam Policy
 
-TODO
+During the Midterm Exam(s) and the Final Exam(s) for this course, I will **require** you to have your camera on (as I will be proctoring you over Zoom). Please make sure you have access to a webcam for the exam dates. In general, I prefer that you have your camera on in class, but I _will_ **require** it during exams.
 
-When it comes to exams, you usually need to let me know **72 hours** in advance if you need a make-up exam. I understand that life happens: if something unexpected happens that causes you to miss an exam, you need to let me know within **24 hours** for me to handle it somehow.
+Note that the exams in this course will be open notes, open book, open internet, open Python interpreter, **open everything**. I'm not stupid enough to think that I can stop you from using these during exams: all of you are probably more tech-savy than I am. So I'll just design the exams with this in mind 😊
+
+In general, the exams aren't worth that much of your grade. I personally dislike exams (just as part of my teaching philosophy), and don't think they make much sense in an online class or introductory CS classes in general. But Mt. SAC forces me to give them, so here we are.
+
+**Missing an Exam:**: You usually need to let me know **72 hours** in advance if you need a make-up exam. I understand that life happens: if something unexpected happens that causes you to miss an exam, you need to let me know within **24 hours** for me to handle it somehow.
 
 **Golden Rule:** If weird stuff happens and you aren't sure what to do, send me an email. I understand that we are all human beings with a lot going on, and I don't want this class to make your life miserable.
 
