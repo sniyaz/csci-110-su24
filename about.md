@@ -26,16 +26,17 @@ The textbook we use in this course is **Starting Out with Programming Logic and 
 
 The only other material I expect you to have access to is a computer that can run Python. You can check out the Mt. SAC [laptop loaner program](https://www.mtsac.edu/studenttech/laptoploanerprogram.html) for help with this. If you are still having trouble getting access to a personal laptop and feel that it's impacting your learning in this course, send me an email: I can try my best to find another way (although I can't promise anything). My goal in this course is to give everybody an opportunity to succeed regardless of personal resources or other privileges.
 
-## Grading [TODO]
+## Grading
 
 Let's be honest: this is the part of the syllabus most students probably jumped to 😉. The breakdown of your grade in this course will be as follows:
 
-**Labs (Shorter, In-Class Programming Assignments)** → 35% \
-**Homeworks (Longer, Take-Home Programming Assignments)** → 20% \
-**Midterm Exam** → 15% \
-**Final Exam** → 30%
+**Labs (Shorter, In-Class Programming Assignments)** → 50% \
+**Homeworks (Longer, Take-Home Programming Assignments)** → 25% \
+**Midterm Exam** → 5% \
+**Final Exam** → 10% \
+**EPA (Effort, Participation, and Altruism)** → 10%
 
-The percentages for each letter grades are exactly what you'd expect too, but in case you've forgotten:
+The percentages for each letter grade are exactly what you'd expect too, but in case you've forgotten:
 
 **A >= 90%** \
 **B >= 80%** \
@@ -48,6 +49,17 @@ The percentages for each letter grades are exactly what you'd expect too, but in
 **Note 2:** My goal is that everybody should get 100% (or close to 100%) on the Labs and Homeworks. We use GitHub Classroom in this class, which lets you know your grade on the coding assignments almost immediately after submitting. Read on for more on GitHub Classroom and how we'll use it this semester.
 
 **Do I Curve?** I reserve the right to make the bins for each grade _easier_, but I will never make them _harder_ (in case, for example, I mess up and give an exam that's way too hard).
+
+## WTF is EPA?
+
+Part of your grade in this course will will focus on your _effort, participation, and altruism_. This includes things like:
+
+1. Showing up to class (obviously).
+2. Showing up to office hours.
+3. Asking questions during class and office hours.
+4. Posting your questions on the Canvas Q&A board.
+5. Socializing with other students on the class Discord (yes, actually).
+6. **Helping out** your fellow students!!! This will boost your EPA **the most**: for example by answering questions on the Canvas Q&A board for other students who are stuck.
 
 ## Late Assignments and Make-Up Exams [TODO]
 
