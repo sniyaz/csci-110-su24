@@ -24,7 +24,12 @@ Computer hardware and software. General computer organization and information re
 
 The textbook we use in this course is **Starting Out with Programming Logic and Design and C++/Java/Python Language Companion by Tony Gaddis, Sixth Edition, 2023, Pearson**.
 
-The only other material I expect you to have access to is a computer that can run Python. You can check out the Mt. SAC [laptop loaner program](https://www.mtsac.edu/studenttech/laptoploanerprogram.html) for help with this. If you are still having trouble getting access to a personal laptop and feel that it's impacting your learning in this course, send me an email: I can try my best to find another way (although I can't promise anything). My goal in this course is to give everybody an opportunity to succeed regardless of personal resources or other privileges.
+The only other material I expect you to have access to is a computer that:
+
+1. Runs Python (so you complete the labs and homework assignments).
+2. Has a webcam (so I can proctor you during exams).
+
+You can check out the Mt. SAC [laptop loaner program](https://www.mtsac.edu/studenttech/laptoploanerprogram.html) for help with this. If you are still having trouble getting access to a personal laptop and feel that it's impacting your learning in this course, send me an email: I can try my best to find another way (although I can't promise anything). My goal in this course is to give everybody an opportunity to succeed regardless of personal resources or other privileges.
 
 ## Grading
 
