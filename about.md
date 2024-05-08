@@ -61,11 +61,9 @@ Part of your grade in this course will will focus on your _effort, participation
 5. Socializing with other students on the class Discord (yes, actually).
 6. **Helping out** your fellow students!!! This will boost your EPA **the most**: for example by answering questions on the Canvas Q&A board for other students who are stuck.
 
-## Late Assignments and Make-Up Exams [TODO]
+## Exam Policy [TODO]
 
-Programming assignments (Labs and HWs) can be submitted up to three days late with a 10% penalty of the **original** point amount each day. For example, suppose you get 9/10 on a lab assignment but submit it two days late (usually this means on a Tuesday). Your final score on the lab in this case would be 7/10. This same rules apply to homeworks. No submissions more than three days late will be graded unless you have an exception from me.
-
-**Note:** I usually use the most-recent submission you make on GitHub when calculating grades. If you don't want me to do this (for example, if you accidentally resubmit late and don't want to take the penalty), just shoot me an email.
+TODO
 
 When it comes to exams, you usually need to let me know **72 hours** in advance if you need a make-up exam. I understand that life happens: if something unexpected happens that causes you to miss an exam, you need to let me know within **24 hours** for me to handle it somehow.
 
@@ -80,6 +78,12 @@ All programming assignments are submitted on GitHub Classroom, which we will rev
 **Warning:** Once you create a group for an assignment on GitHub Classroom, that group can't be changed and you are stuck with it for the rest of the assignment. Be careful!
 
 Remember, with GitHub Classroom **what you see is what you get**. That means that the score you got from the autograder should match the score you see on Canvas (minus any late penalties). Hopefully this increases both grading transparency and your satisfaction with your grade. 😊
+
+## Late Assignment Policy
+
+Programming assignments (Labs and HWs) can be submitted up to three days late with a 10% penalty of the **original** point amount each day. For example, suppose you get 9/10 on a lab assignment but submit it two days late (usually this means on a Tuesday). Your final score on the lab in this case would be 7/10. This same rules apply to homeworks. No submissions more than three days late will be graded unless you have an exception from me.
+
+**Note:** I usually use the most-recent submission you make on GitHub Classroom when calculating grades. If you don't want me to do this (for example, if you accidentally resubmit late and don't want to take the penalty), just shoot me an email.
 
 ## Class Forum: Canvas
 
