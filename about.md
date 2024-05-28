@@ -24,14 +24,15 @@ Computer hardware and software. General computer organization and information re
 
 We actually use not one, but **two** textbooks in CSCI 110. The first textbook listed here is our **main** textbook, and serves as a general (language-agnostic) introduction to the concepts of computation we will learn this semester. The second textbook is intended as a language-specific **companion**, and discusses how to implement the topics from the first book _specifically_ in Python.
 
-1. Starting Out with Programming Logic and Design by Tony Gaddis, Sixth Edition, 2023, Pearson (link[https://www.pearson.com/store/en-us/pearsonplus/p/9780137602018.html]).
+1. Starting Out with Programming Logic and Design by Tony Gaddis, Sixth Edition, 2023, Pearson ([link](https://www.pearson.com/store/en-us/pearsonplus/p/9780137602018.html])).
 
-2. Starting Out With Python by Tony Gaddis, Sixth Edition, 2023, Pearson (link[https://www.pearson.com/store/en-us/pearsonplus/p/9780137871209.html]).
+2. Starting Out With Python by Tony Gaddis, Sixth Edition, 2023, Pearson ([link](https://www.pearson.com/store/en-us/pearsonplus/p/9780137871209.html])).
 
 The only other material I expect you to have access to is a computer that:
 
 1. Runs Python (so you complete the labs and homework assignments).
-2. Has a webcam (so I can proctor you during exams).
+2. Runs Zoom (so you can attend class: duh 😉).
+3. Has a webcam (so I can proctor you during exams).
 
 You can check out the Mt. SAC [laptop loaner program](https://www.mtsac.edu/studenttech/laptoploanerprogram.html) for help with this. If you are still having trouble getting access to a personal laptop and feel that it's impacting your learning in this course, send me an email: I can try my best to find another way (although I can't promise anything). My goal in this course is to give everybody an opportunity to succeed regardless of personal resources or other privileges.
 
