@@ -22,7 +22,11 @@ Computer hardware and software. General computer organization and information re
 
 ## Textbooks and Materials
 
-The textbook we use in this course is **Starting Out with Programming Logic and Design and C++/Java/Python Language Companion by Tony Gaddis, Sixth Edition, 2023, Pearson**.
+We actually use not one, but **two** textbooks in CSCI 110. The first textbook listed here is our **main** textbook, and serves as a general (language-agnostic) introduction to the concepts of computation we will learn this semester. The second textbook is intended as a language-specific **companion**, and discusses how to implement the topics from the first book _specifically_ in Python.
+
+1. Starting Out with Programming Logic and Design by Tony Gaddis, Sixth Edition, 2023, Pearson (link[https://www.pearson.com/store/en-us/pearsonplus/p/9780137602018.html]).
+
+2. Starting Out With Python by Tony Gaddis, Sixth Edition, 2023, Pearson (link[https://www.pearson.com/store/en-us/pearsonplus/p/9780137871209.html]).
 
 The only other material I expect you to have access to is a computer that:
 
