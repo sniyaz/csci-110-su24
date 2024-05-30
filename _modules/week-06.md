@@ -9,20 +9,20 @@ Prep
   : [slides](#), [videos](#)
 
 Jul 22
-: **Lab 16**{: .label .label-purple } TBA
+: **Lab 15**{: .label .label-purple } TBA
   : Requires **Lec X**{: .label .label-green }
 
 Jul 23
-: **Lab 17**{: .label .label-purple } TBA
+: **Lab 16**{: .label .label-purple } TBA
   : Requires **Lec X**{: .label .label-green }
 
 Jul 24
-: **Lab 18**{: .label .label-purple } TBA
+: **Lab 17**{: .label .label-purple } TBA
   : Requires **Lec X**{: .label .label-green }
 
 Jul 25
-: **Lab 19**{: .label .label-purple } TBA
+: **Lab 18**{: .label .label-purple } TBA
   : Requires **Lec X**{: .label .label-green }
 
 Jul 28
-: **Labs 16 + 17 + 18 + 19 due**{: .label .label-red }
+: **Labs 15 + 16 + 17 + 18 due**{: .label .label-red }

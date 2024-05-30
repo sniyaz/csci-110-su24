@@ -25,4 +25,4 @@ Jul 11
   : [info]()
 
 Jul 14
-: **Labs 8 + 9 + 10 + 11 due**{: .label .label-red }
+: **Labs 8 + 9 + 10 due**{: .label .label-red }
