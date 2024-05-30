@@ -3,9 +3,11 @@ title: Week 3 → TBA
 ---
 
 Prep
-: **Lec X**{: .label .label-green } TBA
+: **Lec 4**{: .label .label-green } Loops
   : [slides](#), [videos](#)
-: **Lec X**{: .label .label-green } TBA
+: **Lec 5A**{: .label .label-green } Functions
+  : [slides](#), [videos](#)
+: **Lec 5B**{: .label .label-green } Functions (Cont.)
   : [slides](#), [videos](#)
 
 Jul 1
