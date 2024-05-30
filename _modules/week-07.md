@@ -21,8 +21,8 @@ Jul 31
   : Requires **Lec X**{: .label .label-green }
 
 Aug 1
-: **Lab 23**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+: **FINAL EXAM**{: .label .label-yellow }
+  : [info]()
 
 Aug 4
 : **Labs 20 + 21 + 22 + 23 due**{: .label .label-red }
