@@ -3,9 +3,13 @@ title: Week 6 → TBA
 ---
 
 Prep
-: **Lec X**{: .label .label-green } TBA
+: **Lec 10**{: .label .label-green } Files
   : [slides](#), [videos](#)
-: **Lec X**{: .label .label-green } TBA
+: **Lec 11**{: .label .label-green } Menu-Driven Programs
+  : [slides](#), [videos](#)
+: **Lec 12**{: .label .label-green } Text Processing
+  : [slides](#), [videos](#)
+: **Lec 13**{: .label .label-green } Recursion
   : [slides](#), [videos](#)
 
 Jul 22
