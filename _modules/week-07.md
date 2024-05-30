@@ -10,15 +10,15 @@ Prep
 
 Jul 29
 : **Lab 19**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+  : Requires **Lec 13**{: .label .label-green }
 
 Jul 30
 : **Lab 20**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+  : Requires **Lec 14**{: .label .label-green }
 
 Jul 31
-: **Lab 21**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+: **Lab 21**{: .label .label-purple } TBA (Make-Up)
+  : Requires **Lec 14**{: .label .label-green }
 
 Aug 1
 : **FINAL EXAM**{: .label .label-yellow }
