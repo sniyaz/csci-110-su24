@@ -21,8 +21,8 @@ Jul 10
   : Requires **Lec X**{: .label .label-green }
 
 Jul 11
-: **Lab 11**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+: **MIDTERM EXAM**{: .label .label-yellow }
+  : [info]()
 
 Jul 14
 : **Labs 8 + 9 + 10 + 11 due**{: .label .label-red }
