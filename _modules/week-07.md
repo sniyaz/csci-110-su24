@@ -3,9 +3,7 @@ title: Week 7 → TBA
 ---
 
 Prep
-: **Lec X**{: .label .label-green } TBA
-  : [slides](#), [videos](#)
-: **Lec X**{: .label .label-green } TBA
+: **Lec 14**{: .label .label-green } OOP
   : [slides](#), [videos](#)
 
 Jul 29
