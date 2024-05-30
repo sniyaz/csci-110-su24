@@ -10,15 +10,15 @@ Prep
 
 Jul 8
 : **Lab 8**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+  : Requires **Lec 5B**{: .label .label-green }
 
 Jul 9
 : **Lab 9**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+  : Requires **Lec 6**{: .label .label-green }
 
 Jul 10
 : **Lab 10**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+  : Requires **Lec 7**{: .label .label-green }
 
 Jul 11
 : **MIDTERM EXAM**{: .label .label-yellow }

@@ -10,15 +10,15 @@ Prep
 
 Jul 1
 : **Lab 5**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+  : Requires **Lec 4**{: .label .label-green }
 
 Jul 2
 : **Lab 6**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+  : Requires **Lec 5A**{: .label .label-green }
 
 Jul 3
 : **Lab 7**{: .label .label-purple } TBA
-  : Requires **Lec X**{: .label .label-green }
+  : Requires **Lec 5B**{: .label .label-green }
 
 Jul 4
 : **No Class: America's Birthday! 🇺🇸 🦅 🍔**{: .label .label-green }
