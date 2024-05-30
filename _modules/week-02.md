@@ -5,9 +5,9 @@ title: Week 2 → TBA
 Prep
 : **Lec 1**{: .label .label-green } Intro to CS
   : [slides](#), [videos](#)
-: **Lec 2A**{: .label .label-green } Variables, Processing, and Input/Output
+: **Lec 2A**{: .label .label-green } Variables
   : [slides](#), [videos](#)
-: **Lec 2B**{: .label .label-green } Variables, Processing, and Input/Output (Cont.)
+: **Lec 2B**{: .label .label-green } Variables (Cont.)
   : [slides](#), [videos](#)
 : **Lec 3**{: .label .label-green } Decision Making
   : [slides](#), [videos](#)
