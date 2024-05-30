@@ -3,9 +3,9 @@ title: Week 4 → TBA
 ---
 
 Prep
-: **Lec X**{: .label .label-green } TBA
+: **Lec 6**{: .label .label-green } Advanced Functions
   : [slides](#), [videos](#)
-: **Lec X**{: .label .label-green } TBA
+: **Lec 7**{: .label .label-green } Input Validation
   : [slides](#), [videos](#)
 
 Jul 8
