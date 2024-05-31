@@ -4,11 +4,11 @@ title: Week 3 → TBA
 
 Prep
 : **Lec 4**{: .label .label-green } Loops
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1Zik2WfyYMQXo200uv5X7SKQ2mwwpQCVmxCzPrLZlWvo/edit?usp=sharing), [videos](#)
 : **Lec 5A**{: .label .label-green } Functions
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1wnhrEJaolKjjD3HX9PAS5Dc1mrx8Ye402Hp7knehAIg/edit?usp=sharing), [videos](#)
 : **Lec 5B**{: .label .label-green } Functions (Cont.)
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/17WSxxB0olIbDH4bqfFbREvrsaLCSnrlKr_AiBRBczro/edit?usp=sharing), [videos](#)
 
 Jul 1
 : **Lab 5**{: .label .label-purple } TBA
