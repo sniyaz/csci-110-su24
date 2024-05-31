@@ -4,9 +4,9 @@ title: Week 4 → TBA
 
 Prep
 : **Lec 6**{: .label .label-green } Advanced Functions
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1EDLoxN_eIVsV0e-mdLRnMmEKzJF57w3cLIUh4UBX6XA/edit?usp=sharing), [videos](#)
 : **Lec 7**{: .label .label-green } Input Validation
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1ef4y5hk-zj8K_mUfegbyBHWUQk26YjgWJH8rAtPyfAE/edit?usp=sharing), [videos](#)
 
 Jul 8
 : **Lab 8**{: .label .label-purple } TBA
