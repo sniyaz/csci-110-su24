@@ -4,13 +4,13 @@ title: Week 2 → TBA
 
 Prep
 : **Lec 1**{: .label .label-green } Intro to CS
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1V_XJC3m9EQBaMmaPYDLZHsfJ3swlTwx_dJgU20jt46E/edit?usp=sharing), [videos](#)
 : **Lec 2A**{: .label .label-green } Variables
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/11WMt7o7t-8Xh6YB0Ixh7c7eGcdIqW4sllEyi6LV1mZY/edit?usp=sharing), [videos](#)
 : **Lec 2B**{: .label .label-green } Variables (Cont.)
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1JvSIU408j2T_CdbwMdta4oog8bh6H8No7M7z4NSYpsA/edit?usp=sharing), [videos](#)
 : **Lec 3**{: .label .label-green } Decision Making
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1gqm5Q3E0aw3RJJxE8TSU1UKdqvrXvlG-0oqxcDjeMDY/edit?usp=sharing), [videos](#)
 
 Jun 24
 : **Lab 1**{: .label .label-purple } TBA
