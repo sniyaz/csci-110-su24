@@ -4,13 +4,13 @@ title: Week 6 → TBA
 
 Prep
 : **Lec 10**{: .label .label-green } Files
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/19mCmWO9RfakE84_vgv4d8DFnsbvOtrQlomXIHqz35Hg/edit?usp=sharing), [videos](#)
 : **Lec 11**{: .label .label-green } Menu-Driven Programs
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1bYZx4gffZ0JdwVPjt9qgp5-dd536nE-tM8LVKVAs2Cs/edit?usp=sharing), [videos](#)
 : **Lec 12**{: .label .label-green } Text Processing
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/12L0cwoMGcR93wnb3sXafmvBERh86etgiIBCFRTNHcb0/edit?usp=sharing), [videos](#)
 : **Lec 13**{: .label .label-green } Recursion
-  : [slides](#), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1U-uYFodWaO495BYQPvAcvfA7RnBKEpMfslWReekalWc/edit?usp=sharing), [videos](#)
 
 Jul 22
 : **Lab 15**{: .label .label-purple } TBA
