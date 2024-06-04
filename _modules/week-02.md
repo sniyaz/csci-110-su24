@@ -4,9 +4,9 @@ title: Week 2 → TBA
 
 Prep
 : **Lec 1**{: .label .label-green } Intro to CS
-  : [slides](https://docs.google.com/presentation/d/1V_XJC3m9EQBaMmaPYDLZHsfJ3swlTwx_dJgU20jt46E/edit?usp=sharing), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1V_XJC3m9EQBaMmaPYDLZHsfJ3swlTwx_dJgU20jt46E/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1D-YX1LXAFjcWkZgjqjCORlxiwh4gjkdk?usp=share_link)
 : **Lec 2A**{: .label .label-green } Variables
-  : [slides](https://docs.google.com/presentation/d/11WMt7o7t-8Xh6YB0Ixh7c7eGcdIqW4sllEyi6LV1mZY/edit?usp=sharing), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/11WMt7o7t-8Xh6YB0Ixh7c7eGcdIqW4sllEyi6LV1mZY/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1iX-LXj3WWoBWk2hUOidVbDhtmLd6CSO4?usp=share_link)
 : **Lec 2B**{: .label .label-green } Variables (Cont.)
   : [slides](https://docs.google.com/presentation/d/1JvSIU408j2T_CdbwMdta4oog8bh6H8No7M7z4NSYpsA/edit?usp=sharing), [videos](#)
 : **Lec 3**{: .label .label-green } Decision Making
