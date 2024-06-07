@@ -1,5 +1,5 @@
 ---
-title: Week 2 → TBA
+title: Week 2 → Basic CS Concepts
 ---
 
 Prep
