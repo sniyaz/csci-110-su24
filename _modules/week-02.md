@@ -10,7 +10,7 @@ Prep
 : **Lec 2B**{: .label .label-green } Variables (Cont.)
   : [slides](https://docs.google.com/presentation/d/1JvSIU408j2T_CdbwMdta4oog8bh6H8No7M7z4NSYpsA/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1SGjclR4MqWAOJoSF5gEQ5pMj4hrxoOWK?usp=share_link)
 : **Lec 3**{: .label .label-green } Decision Making
-  : [slides](https://docs.google.com/presentation/d/1gqm5Q3E0aw3RJJxE8TSU1UKdqvrXvlG-0oqxcDjeMDY/edit?usp=sharing), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1gqm5Q3E0aw3RJJxE8TSU1UKdqvrXvlG-0oqxcDjeMDY/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1bDm0OwbIq4765Pllg8_EiWKjSm65gKOu?usp=share_link)
 
 Jun 24
 : **Lab 1**{: .label .label-purple } TBA
