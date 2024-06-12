@@ -4,11 +4,11 @@ title: Week 3 → TBA
 
 Prep
 : **Lec 4**{: .label .label-green } Loops
-  : [slides](https://docs.google.com/presentation/d/1Zik2WfyYMQXo200uv5X7SKQ2mwwpQCVmxCzPrLZlWvo/edit?usp=sharing), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1Zik2WfyYMQXo200uv5X7SKQ2mwwpQCVmxCzPrLZlWvo/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1D7J2c-H3oy97oUVr4QBKVRfAf5s6Nz7R?usp=share_link)
 : **Lec 5A**{: .label .label-green } Functions
-  : [slides](https://docs.google.com/presentation/d/1wnhrEJaolKjjD3HX9PAS5Dc1mrx8Ye402Hp7knehAIg/edit?usp=sharing), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1wnhrEJaolKjjD3HX9PAS5Dc1mrx8Ye402Hp7knehAIg/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1tocE6fEdgMttRgO6yEESR_7cV3TMprFv?usp=share_link)
 : **Lec 5B**{: .label .label-green } Functions (Cont.)
-  : [slides](https://docs.google.com/presentation/d/17WSxxB0olIbDH4bqfFbREvrsaLCSnrlKr_AiBRBczro/edit?usp=sharing), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/17WSxxB0olIbDH4bqfFbREvrsaLCSnrlKr_AiBRBczro/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1_tipZqJtQgUuFZIczXoUXZZHINdep9jh?usp=share_link)
 
 Jul 1
 : **Lab 5**{: .label .label-purple } TBA
