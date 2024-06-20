@@ -19,7 +19,7 @@ Don't worry about actually setting up GitHub Classroom or anything like that: ju
 
 We will also use Discord this semester, which I'm sure many of you are familiar with! We'll _specifically_ be using it for
 
-1. Community building and socializing (see `#⁠group-finding` and `#⁠random`)
+1. Finding coding partners (see `#⁠group-finding`)
 2. Queuing for live help during class time and office hours (see `#⁠live-help`)
 
 This means you need to sign up for Discord and tell me what your handle is here as well. You can see [this page](https://support.discord.com/hc/en-us/articles/360033931551-Getting-Started) for directions.

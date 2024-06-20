@@ -68,8 +68,7 @@ Part of your grade in this course will will focus on your _effort, participation
 2. Showing up to office hours.
 3. Asking questions during class and office hours.
 4. Posting your questions on the Canvas Q&A board.
-5. Socializing with other students on the class Discord (yes, actually).
-6. **Helping out** your fellow students!!! This will boost your EPA **the most**: for example by answering questions on the Canvas Q&A board for other students who are stuck.
+5. **Helping out** your fellow students!!! This will boost your EPA **the most**: for example by answering questions on the Canvas Q&A board for other students who are stuck.
 
 ## Exam Policy
 

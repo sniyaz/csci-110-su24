@@ -29,12 +29,12 @@ We'll mainly use Canvas to host the general Q&A discussion board this term. This
 
 We'll also use Canvas to store your grades this semester (grades for coding assignments should exactly match what the auto-grader gave you on GitHub Classroom).
 
-### Discord: Queuing for Help + Socializing
+### Discord: Queuing for Help + Finding Partners
 
 We will also use Discord this semester, which I'm sure many of you are familiar with! We'll _specifically_ be using it for
 
 1. **Most Importantly:** Queuing for live help during class time and office hours (see `#⁠live-help`)
-2. Community building and socializing (see `#⁠group-finding` and `#⁠random`)
+2. Finding coding partners (see `#⁠group-finding`)
 
 ### Email: Private Questions
 
