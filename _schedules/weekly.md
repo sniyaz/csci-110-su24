@@ -37,9 +37,9 @@ schedule:
         end: 8:25 PM
         location: ZOOM
       - name: Office Hours
-          start: 8:30 PM
-          end: 10:30 PM
-          location: ZOOM
+        start: 8:30 PM
+        end: 10:30 PM
+        location: ZOOM
   - name: Friday
   
 ---
