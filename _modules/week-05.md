@@ -8,7 +8,7 @@ Prep
 : **Lec 8B**{: .label .label-green } Lists (Cont.)
   : [slides](https://docs.google.com/presentation/d/1T39lzs3kS0s6TZVFXZRVig_otZmND_uGXbX3KHr6PqU/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1eg18l5l2O_efli_8IMzIgZ-GA3Bnj2xt?usp=share_link)
 : **Lec 9**{: .label .label-green } Algorithms
-  : [slides](https://docs.google.com/presentation/d/1_mv7bqZ8jJQDK6nT0fMfrvS4xSyjYdhk-CN15mqa4f0/edit?usp=sharing), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1_mv7bqZ8jJQDK6nT0fMfrvS4xSyjYdhk-CN15mqa4f0/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1PNUeLWud_bAt5afqVeISGccmuYhp3ipf?usp=sharing)
 
 Jul 15
 : **Lab 11**{: .label .label-purple } TBA

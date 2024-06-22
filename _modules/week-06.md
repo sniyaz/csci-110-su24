@@ -4,7 +4,7 @@ title: Week 6 → TBA
 
 Prep
 : **Lec 10**{: .label .label-green } Files
-  : [slides](https://docs.google.com/presentation/d/19mCmWO9RfakE84_vgv4d8DFnsbvOtrQlomXIHqz35Hg/edit?usp=sharing), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/19mCmWO9RfakE84_vgv4d8DFnsbvOtrQlomXIHqz35Hg/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1-JjqmD2QNzlN5ZntNIlW6ReHJ7hMR4WG?usp=sharing)
 : **Lec 11**{: .label .label-green } Menu-Driven Programs
   : [slides](https://docs.google.com/presentation/d/1bYZx4gffZ0JdwVPjt9qgp5-dd536nE-tM8LVKVAs2Cs/edit?usp=sharing), [videos](#)
 : **Lec 12**{: .label .label-green } Text Processing
