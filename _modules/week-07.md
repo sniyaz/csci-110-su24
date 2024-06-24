@@ -4,7 +4,7 @@ title: Week 7 → TBA
 
 Prep
 : **Lec 14**{: .label .label-green } OOP
-  : [slides](https://docs.google.com/presentation/d/1nDVw6pGhfluLJBiq9hDtI_rdJnmQ8VgqM4mrNZkUn4Y/edit?usp=sharing), [videos](#)
+  : [slides](https://docs.google.com/presentation/d/1nDVw6pGhfluLJBiq9hDtI_rdJnmQ8VgqM4mrNZkUn4Y/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1nlTKdfNTINrij7Oc3qJcUnHqzUyQi7kW?usp=share_link)
 
 Jul 29
 : **Lab 19**{: .label .label-purple } TBA
