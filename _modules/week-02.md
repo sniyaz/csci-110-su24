@@ -13,19 +13,19 @@ Prep
   : [slides](https://docs.google.com/presentation/d/1gqm5Q3E0aw3RJJxE8TSU1UKdqvrXvlG-0oqxcDjeMDY/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1bDm0OwbIq4765Pllg8_EiWKjSm65gKOu?usp=share_link)
 
 Jun 24
-: **Lab 1**{: .label .label-purple } TBA
+: **Lab 1**{: .label .label-purple } First Programs
   : Requires **Lec 2A**{: .label .label-green }
 
 Jun 25
-: **Lab 2**{: .label .label-purple } TBA
+: **Lab 2**{: .label .label-purple } Variables, Input, Output
   : Requires **Lec 2B**{: .label .label-green }
 
 Jun 26
-: **Lab 3**{: .label .label-purple } TBA
+: **Lab 3**{: .label .label-purple } More Variables, Input, Output
   : Requires **Lec 2B**{: .label .label-green }
 
 Jun 27
-: **Lab 4**{: .label .label-purple } TBA
+: **Lab 4**{: .label .label-purple } Flow of Control
   : Requires **Lec 3**{: .label .label-green }
 
 Jun 30
