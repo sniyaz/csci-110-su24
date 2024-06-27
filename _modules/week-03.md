@@ -11,7 +11,7 @@ Prep
   : [slides](https://docs.google.com/presentation/d/17WSxxB0olIbDH4bqfFbREvrsaLCSnrlKr_AiBRBczro/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1_tipZqJtQgUuFZIczXoUXZZHINdep9jh?usp=share_link)
 
 Jul 1
-: **Lab 5**{: .label .label-purple } TBA
+: **Lab 5**{: .label .label-purple } Using Loops
   : Requires **Lec 4**{: .label .label-green }
 
 Jul 2
