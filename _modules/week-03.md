@@ -15,11 +15,11 @@ Jul 1
   : Requires **Lec 4**{: .label .label-green }
 
 Jul 2
-: **Lab 6**{: .label .label-purple } TBA
+: **Lab 6**{: .label .label-purple } Intro to Functions
   : Requires **Lec 5A**{: .label .label-green }
 
 Jul 3
-: **Lab 7**{: .label .label-purple } TBA
+: **Lab 7**{: .label .label-purple } More Functions
   : Requires **Lec 5B**{: .label .label-green }
 
 Jul 4
