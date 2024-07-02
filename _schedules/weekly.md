@@ -14,6 +14,7 @@ timeline:
   - '9:30 PM'
   - '10:00 PM'
   - '10:30 PM'
+  - '11:00 PM'
 schedule:
   - name: Sunday
   - name: Monday
@@ -41,8 +42,8 @@ schedule:
         end: 8:25 PM
         location: ZOOM
       - name: Office Hours
-        start: 8:30 PM
-        end: 10:30 PM
+        start: 8:55 PM
+        end: 10:55 PM
         location: ZOOM
   - name: Friday
   
