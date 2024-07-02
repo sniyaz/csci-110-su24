@@ -40,8 +40,7 @@ You can check out the Mt. SAC [laptop loaner program](https://www.mtsac.edu/stud
 
 Let's be honest: this is the part of the syllabus most students probably jumped to 😉. The breakdown of your grade in this course will be as follows:
 
-**Labs (Shorter, In-Class Programming Assignments)** → 50% \
-**Homeworks (Longer, Take-Home Programming Assignments)** → 25% \
+**Coding Assignments** → 75% \
 **Midterm Exam** → 5% \
 **Final Exam** → 10% \
 **EPA (Effort, Participation, and Altruism)** → 10%
@@ -82,7 +81,7 @@ In general, the exams aren't worth that much of your grade. I personally dislike
 
 ## Programming Assignments
 
-More than half of your grade in this class is composed of programming assignments, both in-class (Labs) and take-home (Homeworks). All programming assignments can be completed alone or in groups of two: it's completely up to you. I encourage you to work in groups (both because this makes things easier and because you learn from talking to your colleagues). You are allowed to switch groups for every assignment (but you don't have to).
+More than half of your grade in this class is composed of programming assignments. All programming assignments can be completed alone or in groups of two: it's completely up to you. I encourage you to work in groups (both because this makes things easier and because you learn from talking to your colleagues). You are allowed to switch groups for every assignment (but you don't have to).
 
 All programming assignments are submitted on GitHub Classroom, which we will review in Lab 0. GitHub is also where you'll formally create teams. If you're reading this from _the future_ and want to review how GitHub Classroom works, you can revisit Lab 0 [here](https://docs.google.com/document/d/1zv9Umqfy8KEKmTtqoPQFH0pwoAfzPxlJHMxtURlbGls/edit?usp=sharing).
 

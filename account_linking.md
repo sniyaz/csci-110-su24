@@ -32,7 +32,7 @@ Once you've created a Discord account, use that account/handle to join the class
 
 Once you have your GitHub user name and your Discord user name, you need to actually tell me what they are (along with your **official** Mt. SAC email). This will allow me to
 
-1. Actually give you credit for the labs and homeworks you submit on GitHub Classroom.
+1. Actually give you credit for the assignments you submit on GitHub Classroom.
 2. Un-restrict you on Discord now that I know you aren't some random person.
 
 You can find this all-important form [here](https://forms.office.com/Pages/ResponsePage.aspx?id=8ktNzJ4KQEKu3qfR1oj5NYq_6FTEletFrx19-6UJjctUNlBQSFFJUUlOVTQwQ05MRkxCUTVBQ1NUUS4u): please do this ASAP (preferably before the first day of the class).
