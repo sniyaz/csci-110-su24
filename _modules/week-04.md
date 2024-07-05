@@ -22,7 +22,7 @@ Jul 10
 
 Jul 11
 : **MIDTERM EXAM**{: .label .label-yellow }
-  : [info]()
+  : [info](https://sniyaz.github.io/csci-110-su24/midterm_info/)
 
 Jul 14
 : **Labs 8 + 9 + 10 due**{: .label .label-red }
