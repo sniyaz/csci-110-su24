@@ -33,9 +33,9 @@ The midterm will cover Lectures 1 through 5B, inclusive.
 
 Your best friend when studying is the practice exam:
 
-[**Practice Exam Blank**](/assets/exams/csci-110-su24-PRACTICE-midterm.pdf)
+[**Practice Exam Blank**](https://drive.google.com/file/d/1XZmsPqPbo5uCKl5W_85_hxpuowhny_Xz/view?usp=share_link)
 
-[**Practice Exam Solutions**](/assets/exams/SOL-csci-110-su24-PRACTICE-midterm.pdf)
+[**Practice Exam Solutions**](https://drive.google.com/file/d/1BLT8Dh8HqP_AtcCN3xcoyHiiiybH7s1l/view?usp=share_link)
 
 I wrote this to be very similar in topics/format to the actual exam (although you may of course see things not on the practice exam as well). I suggest working on it quite a bit before peeking at the answers.
 
