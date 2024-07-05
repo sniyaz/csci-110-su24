@@ -57,7 +57,7 @@ Here are some important submission guidelines:
 
 1. First, read through the exam PDF carefully, and answer the questions you feel most comfortable about first.
 
-2. The exam consists of five short-answer questions. You **must** submit your answers as a PDF, with **one question response per page**. That means that you should submit a **five** page PDF, with your answer to Question 1 on page 1, your answer to Question 2 on page 2, etc.
+2. The exam consists of five short-answer questions. You **must** submit your answers as a **typed PDF**, with **one question response per page**. That means that you should submit a **five** page PDF, with your answer to Question 1 on page 1, your answer to Question 2 on page 2, etc.
 
 3. Just to make my life easier, at the top of each page you should write the question that you are answering on that page. For example, your first page should have **Question 1** written at the top.
 
