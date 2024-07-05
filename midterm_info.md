@@ -67,6 +67,8 @@ Here are some important submission guidelines:
 
 6. You **must** submit your PDF to the Midterm Assignment on Canvas by 8:25PM (the end of class) on the day of the exam: any late exams will **not** be graded.
 
+7. You **are** allowed to resubmit to the Canvas assignment as many times as you like if you find a mistake (as long as your final submission is before the end of the exam!)
+
 If you don't currently have a word processor on your laptop capable of saving documents to PDF, you can download [LibreOffice](https://www.libreoffice.org) (an open-source version of Microsoft Office available for every OS). I also believe that you get access to Microsoft Word as Mt. SAC students, but don't quote me on that.
 
 **Make sure** to test your word processor before the exam! There will be **no** extra time or exceptions if you have word processor issues.
