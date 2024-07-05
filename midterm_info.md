@@ -41,10 +41,30 @@ I wrote this to be very similar in topics/format to the actual exam (although yo
 
 Other good resources:
 
-1. Problems from Chapters 1-5 of the textbook (feel free to ask me whether a problem is relevant or not).
+1. Problems from the corresponding chapters of both textbooks (feel free to ask me whether a problem is relevant or not).
 
 2. Googling practice problems from other schools on the topics we've learned so far (again, feel free to ask me whether a problem is relevant).
 
 3. The Canvas Q&A: post here if you have a question on a topic while studying for the exam.
 
 ## Exam Submission
+
+When the exam officially begins, you will be able to view the questions using the PDF below.
+
+[**REAL Exam Blank**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+Here are some important submission guidelines:
+
+1. First, read through the exam PDF carefully, and answer the questions you feel most comfortable about first.
+
+2. The exam consists of five short-answer questions. You **must** submit your answers as a PDF, with **one question response per page**. That means that you should submit a **five** page PDF, with your answer to Question 1 on page 1, your answer to Question 2 on page 2, etc.
+
+3. Just to make my life easier, at the top of each page you should write the question that you are answering on that page. For example, your first page should have **Question 1** written at the top.
+
+4. The response to each of the five questions can be given as (at most) a short paragraph. Excessively long answers will be **penalized**.
+
+5. If you fail to follow these submission guidelines (in addition to just making your exam harder to grade) I will **deduct** a few points from your final midterm score.
+
+If you don't currently have a word processor on your laptop capable of saving documents to PDF, you can download [LibreOffice](https://www.libreoffice.org) (an open-source version of Microsoft Office available for every OS). I also believe that you get access to Microsoft Word as Mt. SAC students, but don't quote me on that.
+
+**Make sure** to test your word processor before the exam! There will be **no** extra time or exceptions if you have word processor issues.
