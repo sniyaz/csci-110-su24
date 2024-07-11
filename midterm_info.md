@@ -53,6 +53,8 @@ When the exam officially begins, you will be able to view the questions using th
 
 [**REAL Exam Blank**](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
+[**Clarifications Document**](https://docs.google.com/document/d/1qzEfv0w4gL4QiyPDhwW1h0eXWhzRKSXQpa0OBC55RKI/edit?usp=sharing)
+
 Here are some important submission guidelines:
 
 1. First, read through the exam PDF carefully, and answer the questions you feel most comfortable about first.
