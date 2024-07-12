@@ -9,15 +9,15 @@ Prep
   : [slides](https://docs.google.com/presentation/d/1ef4y5hk-zj8K_mUfegbyBHWUQk26YjgWJH8rAtPyfAE/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1oXMICa1BjZNOegWdEY-6b8WW9ZjIFSfe?usp=share_link)
 
 Jul 8
-: **Lab 8**{: .label .label-purple } TBA
+: **Lab 8**{: .label .label-purple } Functions Once More
   : Requires **Lec 5B**{: .label .label-green }
 
 Jul 9
-: **Lab 9**{: .label .label-purple } TBA
+: **Lab 9**{: .label .label-purple } Return Values
   : Requires **Lec 6**{: .label .label-green }
 
 Jul 10
-: **Lab 10**{: .label .label-purple } TBA
+: **Lab 10**{: .label .label-purple } I Am Speed
   : Requires **Lec 7**{: .label .label-green }
 
 Jul 11

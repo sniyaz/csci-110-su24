@@ -3,19 +3,21 @@ title: Week 7 → TBA
 ---
 
 Prep
+: **Lec 13**{: .label .label-green } Recursion
+  : [slides](https://docs.google.com/presentation/d/1U-uYFodWaO495BYQPvAcvfA7RnBKEpMfslWReekalWc/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1FauXgYXYMgq4vlUvBb1YHD2KFg04QLp7?usp=sharing)
 : **Lec 14**{: .label .label-green } OOP
   : [slides](https://docs.google.com/presentation/d/1nDVw6pGhfluLJBiq9hDtI_rdJnmQ8VgqM4mrNZkUn4Y/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1nlTKdfNTINrij7Oc3qJcUnHqzUyQi7kW?usp=share_link)
 
 Jul 29
-: **Lab 19**{: .label .label-purple } TBA
+: **Lab 18**{: .label .label-purple } TBA
   : Requires **Lec 13**{: .label .label-green }
 
 Jul 30
-: **Lab 20**{: .label .label-purple } TBA
+: **Lab 19**{: .label .label-purple } TBA
   : Requires **Lec 14**{: .label .label-green }
 
 Jul 31
-: **Lab 21**{: .label .label-purple } TBA (Make-Up)
+: **Lab 20**{: .label .label-purple } TBA (Make-Up)
   : Requires **Lec 14**{: .label .label-green }
 
 Aug 1
@@ -23,4 +25,4 @@ Aug 1
   : [info]()
 
 Aug 4
-: **Labs 19 + 20 + 21 due**{: .label .label-red }
+: **Labs 18 + 19 + 20 due**{: .label .label-red }
