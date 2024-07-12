@@ -1,5 +1,5 @@
 ---
-title: Week 3 → TBA
+title: Week 3 → Loops and Functions
 ---
 
 Prep

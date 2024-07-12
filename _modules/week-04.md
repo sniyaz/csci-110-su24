@@ -1,5 +1,5 @@
 ---
-title: Week 4 → TBA
+title: Week 4 → Midterm Party
 ---
 
 Prep
