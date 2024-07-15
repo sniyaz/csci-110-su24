@@ -26,3 +26,4 @@ Aug 1
 
 Aug 4
 : **Labs 18 + 19 + 20 due**{: .label .label-red }
+  :  **NO LATE SUBMISSIONS**{: .label .label-yellow }
