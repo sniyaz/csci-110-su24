@@ -1,5 +1,5 @@
 ---
-title: Week 5 → TBA
+title: Week 5 → Lists
 ---
 
 Prep
@@ -9,15 +9,15 @@ Prep
   : [slides](https://docs.google.com/presentation/d/1T39lzs3kS0s6TZVFXZRVig_otZmND_uGXbX3KHr6PqU/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1eg18l5l2O_efli_8IMzIgZ-GA3Bnj2xt?usp=share_link)
 
 Jul 16
-: **Lab 11**{: .label .label-purple } TBA
+: **Lab 11**{: .label .label-purple } Basic Lists
   : Requires **Lec 8A**{: .label .label-green }
 
 Jul 17
-: **Lab 12**{: .label .label-purple } TBA
+: **Lab 12**{: .label .label-purple } Olivia Rodrigo
   : Requires **Lec 8B**{: .label .label-green }
 
 Jul 18
-: **Lab 13**{: .label .label-purple } TBA
+: **Lab 13**{: .label .label-purple } Pass By Reference
   : Requires **Lec 8B**{: .label .label-green }
 
 Jul 21
