@@ -27,7 +27,7 @@ Aug 1
   : [info]()
 
 Aug 2
-: **Lab 20**{: .label .label-purple } TBA (Make-Up)
+: **Lab 20**{: .label .label-purple } **Make-Up**
 
 Aug 4
 : **Labs 17 + 18 + 19 due**{: .label .label-red }
