@@ -24,7 +24,7 @@ Jul 31
 
 Aug 1
 : **FINAL EXAM**{: .label .label-yellow }
-  : [info]()
+  : [info](https://sniyaz.github.io/csci-110-su24/final_info/)
 
 Aug 2
 : **Lab 20**{: .label .label-purple } **Make-Up**
