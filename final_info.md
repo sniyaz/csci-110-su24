@@ -1,13 +1,13 @@
 ---
 layout: page
-title: Midterm Info
+title: Final Info
 description: >-
-    Student information for the Midterm Exam.
+    Student information for the Final Exam.
 ---
 
 # Final Exam Info
 
-The Midterm Exam will be held in-class on **Thursday August 1st** from **5:00 - 8:25PM**. You will have all of the normal lecture + lab time to work on the exam.
+The Final Exam will be held in-class on **Thursday August 1st** from **5:00 - 8:25PM**. You will have all of the normal lecture + lab time to work on the exam.
 
 ## Exam Policies
 
@@ -29,7 +29,7 @@ If you require an accommodation during the exam, please reach out to me directly
 
 ## Final Material
 
-The midterm will cover **Lectures 1 through 11**, inclusive.
+The final will cover **Lectures 1 through 11**, inclusive.
 
 ## How to Study
 
