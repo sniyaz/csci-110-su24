@@ -1,5 +1,5 @@
 ---
-title: Week 6 → TBA
+title: Week 6 → Other Random Stuff
 ---
 
 Prep
@@ -16,15 +16,15 @@ Jul 22
   : Requires **Lec 8B**{: .label .label-green }
 
 Jul 23
-: **Lab 14**{: .label .label-purple } TBA
+: **Lab 14**{: .label .label-purple } Playing With Algos
   : Requires **Lec 9**{: .label .label-green }
   
 Jul 24
-: **Lab 15**{: .label .label-purple } TBA
+: **Lab 15**{: .label .label-purple } File Practice
   : Requires **Lec 10**{: .label .label-green }
 
 Jul 25
-: **Lab 16**{: .label .label-purple } TBA
+: **Lab 16**{: .label .label-purple } Building a MDP
   : Requires **Lec 11**{: .label .label-green }
 
 Jul 28

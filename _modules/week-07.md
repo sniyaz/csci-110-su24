@@ -1,5 +1,5 @@
 ---
-title: Week 7 → TBA
+title: Week 7 → So Long!
 ---
 
 Prep
