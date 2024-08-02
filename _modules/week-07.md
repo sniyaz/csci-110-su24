@@ -11,15 +11,15 @@ Prep
   : [slides](https://docs.google.com/presentation/d/1nDVw6pGhfluLJBiq9hDtI_rdJnmQ8VgqM4mrNZkUn4Y/edit?usp=sharing), [videos](https://drive.google.com/drive/folders/1nlTKdfNTINrij7Oc3qJcUnHqzUyQi7kW?usp=share_link)
 
 Jul 29
-: **Lab 17**{: .label .label-purple } TBA
+: **Lab 17**{: .label .label-purple } Text Processing
   : Requires **Lec 12**{: .label .label-green }
 
 Jul 30
-: **Lab 18**{: .label .label-purple } TBA
+: **Lab 18**{: .label .label-purple } Recursion
   : Requires **Lec 13**{: .label .label-green }
 
 Jul 31
-: **Lab 19**{: .label .label-purple } TBA
+: **Lab 19**{: .label .label-purple } Owen Wilson
   : Requires **Lec 14**{: .label .label-green }
 
 Aug 1
