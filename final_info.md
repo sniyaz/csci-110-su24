@@ -53,9 +53,9 @@ Other good resources:
 
 When the exam officially begins, you will be able to view the questions using the PDF below.
 
-[**REAL Exam Blank**]()
+[**REAL Exam Blank**](https://drive.google.com/file/d/1E626umZRZhIL0JvcvcOs6km3Eb2vldkU/view?usp=sharing)
 
-[**Clarifications Document**]()
+[**Clarifications Document**](https://docs.google.com/document/d/1wYil4qA0ZCglnUkvhrSEcgQjgkYPnxKBuy9lK_k34XI/edit?usp=sharing)
 
 Make sure to read the front page of the exam **carefully** for submission instructions.
 
